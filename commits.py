@@ -1,6 +1,6 @@
 #!/usr/local/bin/python
 
-import os, json, requests, datetime, urllib3
+import os, json, requests, datetime
 from collections import defaultdict
 
 username = os.environ.get('BB_USER')
